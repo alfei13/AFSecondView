@@ -38,6 +38,7 @@
     zhengfeifeideMacBook-Pro:Future zhengfeifei$ git commit
 */
     UIView *view = [[UIView alloc] init];
+    view.backgroundColor = [UIColor yellowColor];
     [self.view addSubview:view];
 }
 
